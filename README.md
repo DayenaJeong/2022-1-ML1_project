@@ -1,5 +1,5 @@
 # <p align="center">A Predictive Model for Suicidal Ideation of Elderly <br/> Using Random Forests Algorithm</p>
-<p align="center"><img src="https://github.com/Skymind24/2022-ML1-project/assets/114856550/5182440e-cbb2-4419-8b97-a73db083a64c" width="80%" height="80%"></p>
+<p align="center"><img src="https://github.com/DayenaJeong/2022-1-ML1_project/assets/114856982/d5667f69-848d-4745-906e-edff64b1f1cb" width="80%" height="80%"></p>
 
 ## :pushpin: Abstract
 This study set out to present a predictive model for suicidal ideation of the elderly using a random
