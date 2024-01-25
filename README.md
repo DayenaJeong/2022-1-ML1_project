@@ -19,6 +19,8 @@ thought that countermeasures are required to prevent suicidal thoughts or attemp
 ## :pushpin: Members
 <a href="https://github.com/Skymind24/2022-ML1-project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Skymind24/2022-ML1-project" />
-  <img src="https://contrib.rocks/image?repo=DayenaJeong/2022-ML1-project" />
+</a>
+<a href="https://github.com/DayenaJeong/DLTeam2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DayenaJeong/DLTeam2" />
 </a>
 
